@@ -241,6 +241,18 @@ img {
 .home__info-content{
   row-gap : 1.5rem
 }
+.home__info-description{
+  font-size: var(--small-font-size);
+}
+
+.home__button-link {
+  color: var(--text-color) ;
+  font-size: var(--small-font-size);
+  font-weight: var(--font-semi-bold);
+  letter-spacing: 3px;
+  justify-self: flex-start;
+  transition: color .4s;
+}
 /* Swiper class */
 
 
