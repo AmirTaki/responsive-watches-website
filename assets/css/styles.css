@@ -134,7 +134,9 @@ img {
   letter-spacing: 3px;
   transition : color .3s
 }
-
+.nav__link:hover {
+  color: var(--title-color)
+}
 
 /* Show menu */
 
