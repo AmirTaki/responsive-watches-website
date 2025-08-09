@@ -108,6 +108,16 @@ img {
 }
 
 /* Navigation for mobile devices */
+@media screen and (max-width : 1023px) {
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: var(--body-color);
+    border-bottom: 1px solid var(--text-color);
+  } 
+}
+
 
 
 /* Show menu */
