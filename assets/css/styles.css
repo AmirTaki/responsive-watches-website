@@ -121,6 +121,13 @@ img {
   } 
 }
 
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  text-align: center; 
+}
+
 
 
 /* Show menu */
