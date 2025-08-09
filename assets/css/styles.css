@@ -143,6 +143,12 @@ img {
   column-gap: 1.5rem;
   margin-top: 3rem
 }
+
+.nav__social-link {
+  font-size: 1.5rem;
+  color:var(--text-color);
+  transition: color .4s;
+}
 /* Show menu */
 
 
