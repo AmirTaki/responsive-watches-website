@@ -137,7 +137,12 @@ img {
 .nav__link:hover {
   color: var(--title-color)
 }
-
+.nav__social {
+  display: flex;
+  justify-content: center;
+  column-gap: 1.5rem;
+  margin-top: 3rem
+}
 /* Show menu */
 
 
