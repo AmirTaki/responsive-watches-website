@@ -128,6 +128,12 @@ img {
   text-align: center; 
 }
 
+.nav__link {
+  color: var(--text-color);
+  font-weight: var(--font-semi-bold);
+  letter-spacing: 3px;
+  transition : color .3s
+}
 
 
 /* Show menu */
