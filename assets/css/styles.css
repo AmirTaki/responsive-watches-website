@@ -172,7 +172,10 @@ img {
 .home__info-content{
   display: grid;
 }
-
+.home__container {
+  padding-block: 9rem 3rem;
+  row-gap: 3rem
+}
 /* Swiper class */
 
 
