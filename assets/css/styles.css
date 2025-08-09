@@ -221,6 +221,11 @@ img {
 .home__button:hover {
   border-color: var(--title-color)
 }
+
+.home__img {
+  width: 180px;
+  margin-inline: auto ;
+}
 /* Swiper class */
 
 
