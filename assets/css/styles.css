@@ -78,7 +78,15 @@ img {
 }
 
 /*=============== HEADER & NAV ===============*/
-
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: var(--body-color);
+  border-bottom: 1px solid var(--text-color);
+  z-index: var(--z-fixed);
+}
 
 /* Navigation for mobile devices */
 
