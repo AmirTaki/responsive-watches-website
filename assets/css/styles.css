@@ -176,6 +176,11 @@ img {
   padding-block: 9rem 3rem;
   row-gap: 3rem
 }
+
+.home_data {
+  text-align: center;
+  row-gap: 3.5rem;
+}
 /* Swiper class */
 
 
