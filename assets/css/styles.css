@@ -100,6 +100,13 @@ img {
   letter-spacing: 3px
 }
 
+.nav__toggle,
+.nav__close {
+  font-size: 1.25rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
 /* Navigation for mobile devices */
 
 
