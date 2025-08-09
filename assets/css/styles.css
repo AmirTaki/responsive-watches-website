@@ -149,6 +149,10 @@ img {
   color:var(--text-color);
   transition: color .4s;
 }
+
+.nav__social-link:hover {
+  color: var(--title-color)
+}
 /* Show menu */
 
 
