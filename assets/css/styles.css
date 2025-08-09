@@ -234,6 +234,13 @@ img {
   column-gap: .75rem;
   margin-top: 2rem
 }
+
+.home__info-img {
+  width: 120px;
+}
+.home__info-content{
+  row-gap : 1.5rem
+}
 /* Swiper class */
 
 
