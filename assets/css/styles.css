@@ -217,6 +217,10 @@ img {
 .home__button i {
   font-size: 1.25rem;
 }
+
+.home__button:hover {
+  border-color: var(--title-color)
+}
 /* Swiper class */
 
 
