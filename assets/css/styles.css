@@ -199,6 +199,20 @@ img {
 .home__price {
   font-size: var(--h3-font-size); 
 }
+
+.home_button {
+  border: 1px solid var(--text-color);
+  padding: 1rem 1.5rem;
+  justify-self: center;
+  color: var(--title-color);
+  font-size: var(--small-font-size);
+  letter-spacing: 3px;
+  font-weight: var(--font-semi-bold);
+  display: inline-flex;
+  align-items: center;
+  column-gap: 1.5rem;
+  transition:  border-color .4s;
+}
 /* Swiper class */
 
 
