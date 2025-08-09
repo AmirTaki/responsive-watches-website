@@ -165,7 +165,13 @@ img {
 }
 
 /*=============== HOME ===============*/
-
+.home__container,
+.home__data,
+.home__content,
+.home__images,
+.home__info-content{
+  display: grid;
+}
 
 /* Swiper class */
 
