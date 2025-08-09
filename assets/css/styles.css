@@ -181,6 +181,10 @@ img {
   text-align: center;
   row-gap: 3.5rem;
 }
+
+.home__content {
+  row-gap: .75rem;
+}
 /* Swiper class */
 
 
