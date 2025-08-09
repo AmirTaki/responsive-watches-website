@@ -18,7 +18,9 @@ if(navClose){
 /*=============== REMOVE MENU MOBILE ===============*/
 const navLink = document.querySelectorAll(".nav__link");
 navLink.forEach(n => n.addEventListener("click", linkAction))
-
+const linkAction = () => {
+    const navMenu =  document.getElementById("nav-menu")
+}
 /*=============== SWIPER WACTHES ===============*/
 
 
