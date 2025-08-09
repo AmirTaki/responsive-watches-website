@@ -227,6 +227,13 @@ img {
   width: 180px;
   margin-inline: auto ;
 }
+
+.home__info{
+  display: flex;
+  align-items: center;
+  column-gap: .75rem;
+  margin-top: 2rem
+}
 /* Swiper class */
 
 
