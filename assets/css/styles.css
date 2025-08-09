@@ -94,6 +94,12 @@ img {
   align-items: center;
 }
 
+.nav__logo {
+  color: var(--title-color);
+  font-weight : var(--font-semi-bold);
+  letter-spacing: 3px
+}
+
 /* Navigation for mobile devices */
 
 
