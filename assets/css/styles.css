@@ -253,6 +253,10 @@ img {
   justify-self: flex-start;
   transition: color .4s;
 }
+
+.home__button-link:hover {
+  color: var(--title-color)
+}
 /* Swiper class */
 
 
