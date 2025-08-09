@@ -185,6 +185,13 @@ img {
 .home__content {
   row-gap: .75rem;
 }
+
+.home-stars {
+  display: flex;
+  column-gap : .25rem;
+  justify-content: center;
+}
+
 /* Swiper class */
 
 
