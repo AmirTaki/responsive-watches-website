@@ -153,6 +153,12 @@ img {
 .nav__social-link:hover {
   color: var(--title-color)
 }
+
+.nav__close {
+  position: absolute;
+  top: 1.15rem;
+  right: 1.5rem ;
+}
 /* Show menu */
 
 
