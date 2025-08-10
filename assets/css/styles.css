@@ -187,7 +187,7 @@ img {
   row-gap: .75rem;
 }
 
-.home-stars {
+.home__starts {
   display: flex;
   column-gap : .25rem;
   justify-content: center;
@@ -346,7 +346,10 @@ img {
     column-gap: 4rem;
   }
   .home__data{
-    text-align: inherit;
+    text-align: initial;
+  }
+  .home__starts{
+    justify-content: initial;
   }
 }
 
