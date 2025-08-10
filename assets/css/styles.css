@@ -351,6 +351,9 @@ img {
   .home__starts{
     justify-content: initial;
   }
+  .home__button {
+    justify-self: flex-start;
+  }
 }
 
 /* For taller devices */
