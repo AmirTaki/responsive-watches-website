@@ -335,6 +335,9 @@ img {
     flex-direction: row;
     column-gap: 4rem;
   }
+  .nav__social{
+    margin: 0;
+  }
 }
 
 /* For taller devices */
