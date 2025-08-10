@@ -219,6 +219,10 @@ img {
   font-size: 1.25rem;
 }
 
+.home__images {
+  position: relative;
+}
+
 .home__button:hover {
   border-color: var(--title-color)
 }
@@ -260,6 +264,10 @@ img {
 /* Swiper class */
 .swiper {
   margin-inline : initial
+}
+
+.swiper-pagination-bullets-swiper-pagination-horizontal {
+  bottom: -2rem;
 }
 
 /*=============== SCROLL BAR ===============*/
