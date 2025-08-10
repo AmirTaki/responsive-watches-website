@@ -326,6 +326,11 @@ img {
   .nav__toggle {
     display: none;
   }
+  .nav__menu {
+    display: flex;
+    align-items: center;
+    column-gap: 4rem;
+  }
 }
 
 /* For taller devices */
