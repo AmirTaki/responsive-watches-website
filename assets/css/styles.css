@@ -284,7 +284,10 @@ img {
   background-color: var(--title-color);
 }
 /*=============== SCROLL BAR ===============*/
-
+::-webkit-scrollbar{
+  width: .6rem;
+  background-color: hsl(0, 0%, 12%);
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
