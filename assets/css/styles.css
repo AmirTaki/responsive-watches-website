@@ -272,7 +272,7 @@ img {
 
 .swiper-pagination-bullet{
   width: 1.5rem;
-  height: .2rem;
+  height: .3rem;
   border-radius: 0;
   background-color: var(--text-color);
   opacity: 1;
@@ -378,6 +378,9 @@ img {
   }
   .home__starts{
     column-gap: .75rem;
+  }
+  .home__img{
+    width: 300px;
   }
 }
 /* For taller devices */
