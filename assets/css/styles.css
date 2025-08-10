@@ -367,5 +367,11 @@ img {
     margin-inline: auto;
   }
   
+  .home__container{
+    height: initial;
+    grid-template-columns: repeat(3, 320px);
+    justify-content: space-between;
+    padding-block: 11rem 4rem;
+  }
 }
 /* For taller devices */
