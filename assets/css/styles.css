@@ -298,6 +298,11 @@ img {
   .container {
     margin-inline: 1rem
   }
+  .home__info{
+    flex-direction: column;
+    row-gap: 2rem;
+    text-align: center;
+  }
 }
 
 /* For medium devices */
