@@ -388,5 +388,8 @@ img {
   .home__info-description{
     font-size: var(--normal-font-size);
   }
+  .home__info-content {
+    row-gap: 7.5rem;
+  }
 }
 /* For taller devices */
