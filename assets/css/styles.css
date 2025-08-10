@@ -338,6 +338,13 @@ img {
   .nav__social{
     margin: 0;
   }
+
+  .home__container{
+    height: 100vh;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    column-gap: 4rem;
+  }
 }
 
 /* For taller devices */
