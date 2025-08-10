@@ -271,12 +271,17 @@ img {
 }
 
 .swiper-pagination-bullet{
-    width: 1rem;
-    height: .15rem;
-    border-radius: 0;
-    background-color: var(--text-color);
-    opacity: 1;
-    transition: background-color .3s, width .3s ;
+  width: 1rem;
+  height: .15rem;
+  border-radius: 0;
+  background-color: var(--text-color);
+  opacity: 1;
+  transition: background-color .3s, width .3s ;
+}
+
+.swiper-pagination-bullet-active {
+  width: 1.5rem;
+  background-color: var(--title-color);
 }
 /*=============== SCROLL BAR ===============*/
 
