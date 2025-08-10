@@ -373,5 +373,8 @@ img {
     justify-content: space-between;
     padding-block: 11rem 4rem;
   }
+  .home__data {
+    row-gap: 9.5rem;
+  }
 }
 /* For taller devices */
