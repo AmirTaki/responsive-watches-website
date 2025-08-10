@@ -258,7 +258,9 @@ img {
   color: var(--title-color)
 }
 /* Swiper class */
-
+.swiper {
+  margin-inline : initial
+}
 
 /*=============== SCROLL BAR ===============*/
 
