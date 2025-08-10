@@ -322,6 +322,10 @@ img {
   .nav{
     height: calc(var(--header-height) + 2rem);
   }
+  .nav__close,
+  .nav__toggle {
+    display: none;
+  }
 }
 
 /* For taller devices */
