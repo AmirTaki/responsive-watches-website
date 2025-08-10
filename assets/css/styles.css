@@ -303,6 +303,9 @@ img {
     row-gap: 2rem;
     text-align: center;
   }
+  .home__button-link{
+    justify-self: center;
+  }
 }
 
 /* For medium devices */
