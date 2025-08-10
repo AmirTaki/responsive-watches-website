@@ -382,5 +382,11 @@ img {
   .home__img{
     width: 300px;
   }
+  .home__info-img {
+    width: 150px;
+  }
+  .home__info-description{
+    font-size: var(--normal-font-size);
+  }
 }
 /* For taller devices */
