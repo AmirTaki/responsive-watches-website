@@ -376,5 +376,8 @@ img {
   .home__data {
     row-gap: 9.5rem;
   }
+  .home__starts{
+    column-gap: .75rem;
+  }
 }
 /* For taller devices */
