@@ -289,6 +289,9 @@ img {
   background-color: hsl(0, 0%, 12%);
 }
 
+::-webkit-scrollbar-thumb{
+  background-color: hsl(0, 0%, 20%);
+}
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
