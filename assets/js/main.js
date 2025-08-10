@@ -26,7 +26,7 @@ const linkAction = () => {
 navLink.forEach(n => n.addEventListener("click", linkAction))
 
 /*=============== SWIPER WACTHES ===============*/
-const swiperWatches = new Swiper (".home_swiper", {
+const swiperWatches = new Swiper (".home__swiper", {
     loop: true,
     pagination: {
         el : '.swiper-pagination',
